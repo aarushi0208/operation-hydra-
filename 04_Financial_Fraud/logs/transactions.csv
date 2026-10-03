@@ -1,0 +1,8 @@
+transaction_id,timestamp,source_account,destination_account,amount,method,status
+TXN001,2026-09-01 10:35:12,victim001@demo,merchant001@demo,4999,UPI,SUCCESS
+TXN002,2026-09-01 10:36:04,victim001@demo,mule001@demo,25000,UPI,SUCCESS
+TXN003,2026-09-01 10:37:21,mule001@demo,mule002@demo,15000,UPI,SUCCESS
+TXN004,2026-09-01 10:38:45,mule002@demo,crypto_demo_wallet,12000,CRYPTO,SUCCESS
+TXN005,2026-09-01 10:40:02,victim001@demo,mule001@demo,10000,UPI,SUCCESS
+TXN006,2026-09-01 10:41:33,mule001@demo,mule002@demo,8000,UPI,SUCCESS
+TXN007,2026-09-01 10:43:10,mule002@demo,crypto_demo_wallet,7000,CRYPTO,SUCCESS

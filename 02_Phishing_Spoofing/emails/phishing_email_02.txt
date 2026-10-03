@@ -1,0 +1,20 @@
+OPERATION HYDRA – PHISHING EMAIL SAMPLE 02
+
+From: support@hydra-payments.example
+To: victim001@example.test
+Subject: Payment Confirmation – Action Required
+Date: 01 September 2026, 10:36 AM
+
+Dear User,
+
+A payment request has been generated for your account.
+
+If you did not authorize this activity, please verify your account
+immediately using the security document provided with this email.
+
+Please do not ignore this notification.
+
+Regards,
+
+Hydra Payments Support
+Account Security Team

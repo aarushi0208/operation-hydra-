@@ -1,0 +1,20 @@
+OPERATION HYDRA – PHISHING EMAIL SAMPLE 03
+
+From: alerts@hydra-finance.example
+To: victim001@example.test
+Subject: Security Alert – Account Access Detected
+Date: 01 September 2026, 10:41 AM
+
+Dear Customer,
+
+A new sign-in attempt was detected on your account.
+
+If this activity was not performed by you, please review the attached
+security notification and follow the verification instructions.
+
+Your prompt response is recommended.
+
+Regards,
+
+Hydra Finance
+Security Monitoring Team

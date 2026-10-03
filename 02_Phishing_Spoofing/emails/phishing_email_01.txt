@@ -1,0 +1,22 @@
+OPERATION HYDRA – PHISHING EMAIL SAMPLE 01
+
+From: security@hydra-bank.example
+To: victim001@example.test
+Subject: Urgent Account Verification Required
+Date: 01 September 2026, 10:32 AM
+
+Dear Customer,
+
+We detected unusual activity associated with your account.
+
+For security purposes, your account requires immediate verification.
+Please review the attached security notice and confirm your account
+information.
+
+Failure to complete verification may result in temporary account
+restrictions.
+
+Regards,
+
+Hydra Security Team
+Security Operations Department

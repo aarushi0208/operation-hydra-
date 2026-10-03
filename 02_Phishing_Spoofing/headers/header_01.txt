@@ -1,0 +1,18 @@
+OPERATION HYDRA – EMAIL HEADER 01
+
+From: security@hydra-bank.example
+To: victim001@example.test
+Subject: Urgent Account Verification Required
+Date: Tue, 01 Sep 2026 10:32:15 +0530
+
+Return-Path: <security@hydra-bank.example>
+
+Received: from mail.hydra-example.test
+    by victim-mail.example.test
+
+Authentication-Results:
+spf=fail
+dkim=fail
+dmarc=fail
+
+Message-ID: <HYDRA-EMAIL-001@example.test>

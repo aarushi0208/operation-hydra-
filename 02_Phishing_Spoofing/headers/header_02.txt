@@ -1,0 +1,18 @@
+OPERATION HYDRA – EMAIL HEADER 02
+
+From: support@hydra-payments.example
+To: victim001@example.test
+Subject: Payment Confirmation – Action Required
+Date: Tue, 01 Sep 2026 10:36:22 +0530
+
+Return-Path: <support@hydra-payments.example>
+
+Received: from mail.hydra-payments.test
+    by victim-mail.example.test
+
+Authentication-Results:
+spf=pass
+dkim=fail
+dmarc=fail
+
+Message-ID: <HYDRA-EMAIL-002@example.test>
